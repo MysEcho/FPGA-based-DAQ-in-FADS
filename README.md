@@ -22,3 +22,9 @@ and the total number of peaks desired.
 ![5](https://github.com/MysEcho/FPGA-based-DAQ-in-FADS/assets/135346641/83e56db5-d54d-4595-8898-15ea0b5b4353)
 
 
+**Input Waveform(Burst Gaussian pulses):**
+
+![Burst mod sin2](https://github.com/MysEcho/FPGA-based-DAQ-in-FADS/assets/135346641/4cd03f0e-d69e-4aa2-a73b-ccd87055fd1f)
+
+
+
