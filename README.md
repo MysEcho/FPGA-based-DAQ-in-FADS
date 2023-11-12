@@ -10,3 +10,15 @@ precise sampling process and archives the captured data within
 the FPGA’s Block RAM. The paper also emphasizes adaptability
 by enabling users to define the number of samples for each peak
 and the total number of peaks desired.
+
+**Timing Diagram for the FSM:**
+
+
+![Sampler with GPIO](https://github.com/MysEcho/FPGA-based-DAQ-in-FADS/assets/135346641/1831004d-f633-49fc-93b7-32a1b99875a1)
+
+**Input Waveform Generation:**
+
+
+![5](https://github.com/MysEcho/FPGA-based-DAQ-in-FADS/assets/135346641/83e56db5-d54d-4595-8898-15ea0b5b4353)
+
+
